@@ -1,2 +1,2 @@
-# rntal-vehs-images
+# rental-vehs-images
 rental cars
